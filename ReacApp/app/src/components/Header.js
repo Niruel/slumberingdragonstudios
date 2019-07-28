@@ -10,7 +10,7 @@ class Header  extends Component{
         <div className= "header-logo">
         <Logo className= "svg-logo"/>
           <h1 className="myName"> Nicholas Ruppel</h1>
-
+          <h1>Hello update</h1>
     </div>
   </header>
 
