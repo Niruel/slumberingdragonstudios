@@ -18,6 +18,7 @@ function App() {
       <Header/>
       <NavMenu/>
       <div className = "mainPageWindow">
+        <h1>Hello update</h1>
         <Switch>
         <Route exact path="/" component={HomePage} />
         <Route path = "/about_me" component={AboutMeComp} />
