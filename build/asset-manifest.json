@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8d9d8e9.chunk.css",
+    "main.js": "/static/js/main.67c91db2.chunk.js",
+    "main.js.map": "/static/js/main.67c91db2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.d7a94725.chunk.css": "/static/css/2.d7a94725.chunk.css",
+    "static/js/2.bc9acef6.chunk.js": "/static/js/2.bc9acef6.chunk.js",
+    "static/js/2.bc9acef6.chunk.js.map": "/static/js/2.bc9acef6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec222bb533d9e1f77c763e08fd5d5948.js": "/precache-manifest.ec222bb533d9e1f77c763e08fd5d5948.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d7a94725.chunk.css.map": "/static/css/2.d7a94725.chunk.css.map",
+    "static/css/main.e8d9d8e9.chunk.css.map": "/static/css/main.e8d9d8e9.chunk.css.map",
+    "static/media/Logo_svg.fef16dc9.svg": "/static/media/Logo_svg.fef16dc9.svg",
+    "static/media/TormentLogo.jpg": "/static/media/TormentLogo.d1321996.jpg",
+    "static/media/Torment_logo.jpg": "/static/media/Torment_logo.4f47010a.jpg",
+    "static/media/gamepad-game-controller-svgrepo-com.d2840151.svg": "/static/media/gamepad-game-controller-svgrepo-com.d2840151.svg",
+    "static/media/github.ea8bb7f4.svg": "/static/media/github.ea8bb7f4.svg",
+    "static/media/hat-cultures-svgrepo-com.549aa90f.svg": "/static/media/hat-cultures-svgrepo-com.549aa90f.svg",
+    "static/media/linkedin-logo.8220d480.svg": "/static/media/linkedin-logo.8220d480.svg",
+    "static/media/tools-hand-drawn-outlines-of-configuration-interface-symbol-svgrepo-com.ccbc6bb0.svg": "/static/media/tools-hand-drawn-outlines-of-configuration-interface-symbol-svgrepo-com.ccbc6bb0.svg",
+    "static/media/torii-gate-japan-svgrepo-com.640c6ace.svg": "/static/media/torii-gate-japan-svgrepo-com.640c6ace.svg",
+    "static/media/twitter.93a9fd6a.svg": "/static/media/twitter.93a9fd6a.svg",
+    "static/media/youtube.b3f61e3f.svg": "/static/media/youtube.b3f61e3f.svg"
+  }
+}
