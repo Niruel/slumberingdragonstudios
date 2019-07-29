@@ -9,7 +9,7 @@ class DevBlog extends Component{
     <Card.Header>Website Launch</Card.Header>
     <Card.Body>
       <Card.Title>The Launch of SlumberingDragonStudios.com</Card.Title>
-      <small>07/28/19</small>
+      <small>07/29/19</small>
       <hr></hr>
       <Card.Text>
         Today is very exciting as it marks the launch of my Website
