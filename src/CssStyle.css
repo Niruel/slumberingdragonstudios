@@ -235,3 +235,28 @@ margin: 0 auto;
 	width: 10em;
 	list-style: disc;
 }
+.me{
+	
+	margin: 2rem;
+	text-align: justify;
+
+}
+.myPic{
+margin-right: 2rem;
+margin-top: 2rem;
+float: left;
+}
+.mePic{
+	width: 270px;
+	padding-left: 1rem;
+}
+.engineTalk{
+text-align: justify;
+
+}
+.who{
+	text-align: center;
+}
+.tagLine{
+	text-align: center;
+}
