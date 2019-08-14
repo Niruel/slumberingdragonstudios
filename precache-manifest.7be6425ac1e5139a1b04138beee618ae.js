@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bdc72677ab6b24ac58aff2b94351455",
+    "revision": "29847b6a8520c80f8e40b4ab60f39785",
     "url": "/index.html"
   },
   {
-    "revision": "a4903fb14afc27144691",
+    "revision": "d9b72782fd307520f10a",
     "url": "/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "53fccdf840906fa27f7a",
-    "url": "/static/css/main.61c66654.chunk.css"
+    "revision": "a750a38f7c731feea9bf",
+    "url": "/static/css/main.034e8d38.chunk.css"
   },
   {
-    "revision": "a4903fb14afc27144691",
-    "url": "/static/js/2.c2e2795e.chunk.js"
+    "revision": "d9b72782fd307520f10a",
+    "url": "/static/js/2.8fd14749.chunk.js"
   },
   {
-    "revision": "53fccdf840906fa27f7a",
-    "url": "/static/js/main.83037961.chunk.js"
+    "revision": "a750a38f7c731feea9bf",
+    "url": "/static/js/main.fc7b3f73.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -40,6 +40,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Torment_logo.4f47010a.jpg"
   },
   {
+    "revision": "8f2f4c71a850b23280e967eb7f7d7b8d",
+    "url": "/static/media/bitsummit-image-logo.8f2f4c71.png"
+  },
+  {
+    "revision": "cc10776cfe577fdf749392540650cde2",
+    "url": "/static/media/devBuild1.cc10776c.jpg"
+  },
+  {
+    "revision": "44da419f1842939ca40509760e39dd0b",
+    "url": "/static/media/devBuild2.44da419f.jpg"
+  },
+  {
+    "revision": "d00deb359c89b6b86748892f30c93c9a",
+    "url": "/static/media/devBuild3.d00deb35.jpg"
+  },
+  {
+    "revision": "964f6f749fa43b317bd77a35b9769076",
+    "url": "/static/media/fin.964f6f74.jpg"
+  },
+  {
     "revision": "d284015180158fee2fdc18238f69c377",
     "url": "/static/media/gamepad-game-controller-svgrepo-com.d2840151.svg"
   },
@@ -58,6 +78,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2c4f862c19b1774270b0fb05698e4f8",
     "url": "/static/media/pg06nick_3880_BW.c2c4f862.jpg"
+  },
+  {
+    "revision": "d1655e65ccda4b77e3c1944657455d33",
+    "url": "/static/media/replayingjplogo.d1655e65.png"
+  },
+  {
+    "revision": "c7b0fe66651ba6e2a38de74c5dad214f",
+    "url": "/static/media/segalogo.c7b0fe66.jpg"
   },
   {
     "revision": "ccbc6bb0ae645df88707d6bada92a25e",
