@@ -26,10 +26,7 @@ blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+
 
 /* http://www.paulirish.com/2012/box-sizing-border-box-ftw/ (2015/04/28) */
 
@@ -48,7 +45,9 @@ body {
 	background-color: #000;
 }
 
-
+h3{
+	text-align: center;
+}
 h1{
 	margin: 0 auto;
 	padding-top: 1em;
@@ -212,13 +211,14 @@ margin: 0 auto;
 	width: 45px;
 	height: 45px;
 }
-.card{
-	height: 52rem;
-	width: 42rem;
+.card-img-top{
+	height: auto;
 
 
 }
-
+.card{
+	height: fit-content;
+}
 .card-img{
 	width: 91%;
 	height: auto;
@@ -247,8 +247,9 @@ margin-top: 2rem;
 float: left;
 }
 .mePic{
-	width: 270px;
+	width: 280px;
 	padding-left: 1rem;
+	
 }
 .engineTalk{
 text-align: justify;
@@ -259,4 +260,40 @@ text-align: justify;
 }
 .tagLine{
 	text-align: center;
+}
+.aboutMeDiv{
+	padding: 2rem;
+}
+.replay{
+	height: 13rem;
+	width: 13rem;
+	margin-left: 3rem;
+}
+.tormentImage{
+width: 31%;
+
+}
+.tormentVideos1{
+	padding: 1rem;
+	float: left;
+	display: grid;
+}
+.tormentVideos2{
+	padding: 1rem;
+	float: right;
+	display: grid;
+}
+.tormentVideos3{
+	padding: 1rem;
+	float: left;
+	display: grid;
+}
+.TormentVideos{	
+	height: 50rem;
+}
+.homepageCard{
+	height: auto;
+}
+.card-header-tabs{
+	padding-left: 1rem;
 }

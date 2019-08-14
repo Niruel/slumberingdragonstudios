@@ -4,7 +4,7 @@ class AboutMeComp extends Component{
 
   render(){
     return(
-          <div>
+          <div className='aboutMeDiv'>
           <h3>Education</h3>
 
               <h5>Vancouver Film School (VFS) </h5>
@@ -35,7 +35,7 @@ class AboutMeComp extends Component{
         <h3>Abroad experiences</h3>
           <h5>Lived in Canada for a year</h5>
           <h5>Moved to Japan and this is where I am currently studying</h5>
-          <h5>Went to Bitcon in Kyoto as my first gaming convention I went to</h5>
+          <h5>Went to Bitsummit in Kyoto as my first gaming convention I went to</h5>
         </div>
     );
   }

@@ -1,10 +1,16 @@
 import React, {Component} from 'react';
+import Card from 'react-bootstrap/Card';
+import CardGroup from 'react-bootstrap/CardGroup';
 import GamingChef from '../images/GamingChef.png';
 import PG06Nick from '../images/pg06nick_3880_BW.jpg';
+import Bitsummit from '../images/bitsummit-image-logo.png';
+import Segah from '../images/segalogo.jpg';
+import Replay from '../images/replayingjplogo.png';
 class HomePage extends Component{
 
   render(){
     return(
+     
       <div>
           <h1> Thank you for visiting the dragon nest</h1>
           <br></br>
@@ -26,8 +32,52 @@ class HomePage extends Component{
             Now having this much experience with creating games I thought it's time for me to get into game engine desing. Now I have read a lot on people saying
             don't build a game engine and yeah if you plan to make many types of games then it is understandable not to make a game engine, but
             if you are building a specific game with a specific genere then I see no harm in building a game engine. 
-            So I built my first game engine inside of processing 3 which is all about block breaking.   </p>
+            So I built my first game engine inside of processing 3 which is all about block breaking.   </p><br></br>
+
+            <h3>Game events i've been attended:</h3>
             </div>
+            
+           
+      <CardGroup>
+      <Card>
+    
+    <Card.Body className='homepageCard'>
+      <Card.Img variant="top" src={Bitsummit} />
+      <Card.Title>Bitsummit</Card.Title>
+      <Card.Text>
+        
+      </Card.Text>
+    </Card.Body >
+    <Card.Footer>
+      <small className="text-muted">Attended June 1-2nd </small>
+    </Card.Footer>
+  </Card>
+  <Card>
+    
+    <Card.Body className='homepageCard'>
+      <Card.Img variant="top" src={Segah} />
+      <Card.Title>Segah</Card.Title>
+      <Card.Text>
+        
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">Attended Aug. 5-7th, 2019 </small>
+    </Card.Footer>
+  </Card >
+  <Card>
+    <Card.Body className='homepageCard'>
+      <Card.Img className='replay' variant="top" src={Replay}/>
+      <Card.Title>Replaying Japan</Card.Title>
+      <Card.Text>
+       
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">Attended Aug 9-11th, 2019</small>
+    </Card.Footer>
+  </Card>
+      </CardGroup>
       </div>
     );
   }
