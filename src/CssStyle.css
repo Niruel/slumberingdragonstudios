@@ -15,6 +15,7 @@ article, aside, details, div, figcaption, figure, footer, header, hgroup, menu, 
 }
 body {
 	line-height: 1;
+	overflow-x: hidden;
 }
 ol, ul {
 	list-style: none;
@@ -176,10 +177,10 @@ display: inline-block;
 }
 
 .mainPageWindow{
-width: 92.5vw;
+width: 100%;
 height: 125vh;
 background-color: white;
-margin-left: 7.5vw;
+margin-left: 4.5vw;
 
 
 }
@@ -296,4 +297,9 @@ width: 31%;
 }
 .card-header-tabs{
 	padding-left: 1rem;
+}
+@media screen and (max-width: 1440px){
+	.mainPageWindow{
+		margin-left: 8.5vw;
+	}
 }
