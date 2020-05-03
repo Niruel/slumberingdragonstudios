@@ -244,16 +244,17 @@ margin: 0 auto;
 }
 .myPic{
 margin-right: 2rem;
-margin-top: 2rem;
 float: left;
 }
 .mePic{
-	width: 280px;
+	width: 580px;
+	height: 800px;
 	padding-left: 1rem;
 	
 }
 .engineTalk{
 text-align: justify;
+width: 94%;
 
 }
 .who{
@@ -298,8 +299,10 @@ width: 31%;
 .card-header-tabs{
 	padding-left: 1rem;
 }
+
+
 @media screen and (max-width: 1440px){
 	.mainPageWindow{
-		margin-left: 8.5vw;
+		margin-left: 7.5vw;
 	}
 }

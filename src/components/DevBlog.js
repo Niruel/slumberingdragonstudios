@@ -18,7 +18,9 @@ class DevBlog extends Component{
         I love everything about Reacts process.
       </Card.Text>
     </Card.Body>
+    
   </Card>
+  
 
     );
   }
