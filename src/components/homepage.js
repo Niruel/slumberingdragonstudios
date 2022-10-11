@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import Card from 'react-bootstrap/Card';
-import CardGroup from 'react-bootstrap/CardGroup';
 import GamingChef from '../images/GamingChef.png';
 import PG06Nick from '../images/pg06nick_3880_BW.jpg';
 import Bitsummit from '../images/bitsummit-image-logo.png';
@@ -40,46 +38,7 @@ class HomePage extends Component{
             </div>
             
            
-      <CardGroup className='Homegroup'>
-      <Card>
-    
-    <Card.Body className='homepageCard'>
-      <Card.Img variant="top" src={Bitsummit} />
-      <Card.Title>Bitsummit</Card.Title>
-      <Card.Text>
-        
-      </Card.Text>
-    </Card.Body >
-    <Card.Footer>
-      <small className="text-muted">Attended June 1-2nd </small>
-    </Card.Footer>
-  </Card>
-  <Card>
-    
-    <Card.Body className='homepageCard'>
-      <Card.Img variant="top" src={Segah} />
-      <Card.Title>Segah</Card.Title>
-      <Card.Text>
-        
-      </Card.Text>
-    </Card.Body>
-    <Card.Footer>
-      <small className="text-muted">Attended Aug. 5-7th, 2019 </small>
-    </Card.Footer>
-  </Card >
-  <Card>
-    <Card.Body className='homepageCard'>
-      <Card.Img className='replay' variant="top" src={Replay}/>
-      <Card.Title>Replaying Japan</Card.Title>
-      <Card.Text>
-       
-      </Card.Text>
-    </Card.Body>
-    <Card.Footer>
-      <small className="text-muted">Attended Aug 9-11th, 2019</small>
-    </Card.Footer>
-  </Card>
-      </CardGroup>
+      
       </div>
     );
   }
